@@ -1,0 +1,34 @@
+.content {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+padding: 20px;
+    img {
+        width: 100px;
+        height: 100px;
+    }
+}
+a{
+    text-decoration: none;
+    color: Black;
+}
+.mains img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+.mains div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 20px;
+    // border: 1px solid #0000;
+}
+h4{
+    border-radius: 10px;
+}
+img{
+    margin: auto;
+}
